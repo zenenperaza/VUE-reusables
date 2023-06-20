@@ -1,6 +1,6 @@
 <template>
   <MainLayout>
-    <h1 >My about page</h1>
+    <h1 >My services page</h1>
   </MainLayout>
   </template>
   
